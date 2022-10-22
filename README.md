@@ -1,5 +1,5 @@
 ## I'm Chihiro
-:computer:　I am a software engineer.　　
+:computer: I am a software engineer.　　
 
 :pencil: I am studying English.　　
 
