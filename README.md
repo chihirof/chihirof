@@ -1,3 +1,14 @@
+## I'm Chihiro
+:computer:　I am a software engineer.　　
+
+:pencil: I am studying English.　　
+
+:books: I am interested in and studying TypeScript, Go and Python.　　
+
+:postbox: Contact me [Twitter @chihiro0940](https://twitter.com/chihiro0940)　　
+
+
+
 ## Pinned
 
 ### [Qiita](https://qiita.com/chihiro)
